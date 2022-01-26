@@ -1,2 +1,4 @@
-# cronometro
-Cronômetro feito com JavaScript
+# Cronômetro
+feito com JavaScript, CSS e HTML.
+
+Link: cronometroluanzera7.netlify.app
